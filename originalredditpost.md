@@ -1,3 +1,5 @@
+https://www.reddit.com/r/CrusaderKings/comments/4e3bc6/someone_posted_about_a_single_city_mod_idea/
+
 ##Someone posted about a single city mod idea recently on this sub. I want to work on over the summer and I already have a bunch of ideas to proceed.
 
 So, there are basically two directions this mod could go. The first one is a full scale total conversion and set in a more modern era. The second is a smaller scale total conversion, setting it in the CK2 era. In terms of gameplay the specifics would probably be different but the general ideas remain the same regardless of time setting. Note - most of the ideas are shaped around modern crime but adjusting them to the medieval standard shouldn't be difficult at all - I do have some info on what happened in cities during the medieval era.
