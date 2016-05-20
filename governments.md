@@ -24,9 +24,13 @@
      * elective; if possible I'd like AI to choose director with the most titles
      * duke or king level title
  * Public corporation
-     * king level title; special mechanics to unlock emperor level title and deactivate the mayor
+     * king level title; can be converted to conglomerate
      * patrician elective
      * vassals are subsidiary companies
+ * Conglomerate
+     * Uses nomad mechanics; emperor level title.
+     * Special mechanics to deactivate the mayor and take over the city
+
  * Subsidiary
      * special vassal company - characters get greater autonomy but lieges can revoke these titles
  * Mergers and acquisitions replace vassalization
