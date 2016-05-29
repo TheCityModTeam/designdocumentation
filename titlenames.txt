@@ -1,0 +1,24 @@
+// A list of titles by government type:
+
+family business:
+
+    director (duke)
+    managing director (king)
+
+private company:
+
+    president (duke - independent)
+    director (duke - vassal)
+    chairman (king)
+
+public corporation:
+
+    vice president (subsidiary count)
+    director (dukes and patricians)
+    president
+
+conglomerate:
+
+    president/director (khan)
+    chairman (khagan)
+    non-nomadic vassals should be subsidiary companies
